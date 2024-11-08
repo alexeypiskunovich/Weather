@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Weather/static/css/main.6e57f5ef.css",
+    "main.js": "/Weather/static/js/main.2a018730.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Weather/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Rain.gif": "/Weather/static/media/Rain.6fbab32b2161113e6b4b.gif",
+    "static/media/Sun.gif": "/Weather/static/media/Sun.8513fda0301752455034.gif",
+    "static/media/Cloud.gif": "/Weather/static/media/Cloud.af8eb826193dad8fefac.gif",
+    "static/media/Snow.gif": "/Weather/static/media/Snow.0e437719f2381cc1db28.gif",
+    "static/media/wind.png": "/Weather/static/media/wind.f2aee344df4c224b988b.png",
+    "static/media/humidity.png": "/Weather/static/media/humidity.8ab349dbe18b8f3fce5e.png",
+    "static/media/ThunderStormIcon.png": "/Weather/static/media/ThunderStormIcon.e953516399513cd1495b.png",
+    "static/media/Compass.png": "/Weather/static/media/Compass.060b8de91ba849d90852.png",
+    "static/media/SnowIcon.png": "/Weather/static/media/SnowIcon.a1bab4977c6b746bbe1b.png",
+    "static/media/Pressure.png": "/Weather/static/media/Pressure.0cb72b298555c4192aa7.png",
+    "static/media/ColdThermometr.png": "/Weather/static/media/ColdThermometr.a0e27e9111b28c0a3ddc.png",
+    "static/media/feelweather.png": "/Weather/static/media/feelweather.b5485f4ff5716c184056.png",
+    "static/media/RainIcon.png": "/Weather/static/media/RainIcon.a2eb4b3405bc4838831a.png",
+    "static/media/FogIcon.png": "/Weather/static/media/FogIcon.a9ca9a63718a58fc9582.png",
+    "static/media/HotThermometr.png": "/Weather/static/media/HotThermometr.bfe9e16cc56a24d96a94.png",
+    "static/media/MainThermometr.png": "/Weather/static/media/MainThermometr.c9b058e70612b8558101.png",
+    "static/media/Sunset.png": "/Weather/static/media/Sunset.6de8e80d69c9add14297.png",
+    "static/media/DaySun.png": "/Weather/static/media/DaySun.f183df862f70602eecbd.png",
+    "static/media/CloudIcon.png": "/Weather/static/media/CloudIcon.b9a187440c6c127890af.png",
+    "static/media/SunnyIcon.png": "/Weather/static/media/SunnyIcon.880c347d653d4e4faee1.png",
+    "static/media/sunrise.png": "/Weather/static/media/sunrise.fe95fe4dbb478e4d9953.png",
+    "index.html": "/Weather/index.html",
+    "main.6e57f5ef.css.map": "/Weather/static/css/main.6e57f5ef.css.map",
+    "main.2a018730.js.map": "/Weather/static/js/main.2a018730.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Weather/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e57f5ef.css",
+    "static/js/main.2a018730.js"
+  ]
+}
