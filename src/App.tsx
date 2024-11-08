@@ -1,26 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Container, styled} from '@mui/material';
+import HeaderBox from './Header/HeaderBox';
+import WeatherForecast from './WeatherForecast/WeatherForecast ';
+import InputInfo from './Header/TopInfo/PartInfo/InputInfo';
+import Fon from './Fon/FonPicture';
 
-function App() {
+const styles = {
+  container: {
+    borderRadius: '20px',
+    backgroundColor: 'rgba(255, 255, 255, 0.4)',
+    border: '2px solid white',
+    position: 'relative',
+    zIndex: 1,
+  },
+};
+
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Fon />
+      <Container sx={styles.container}>
+        <InputInfo />
+        <HeaderBox />
+        <WeatherForecast />
+      </Container>
+    </>
   );
-}
+};
 
 export default App;

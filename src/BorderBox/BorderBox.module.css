@@ -1,0 +1,23 @@
+.App {
+  height: 100vh;
+  background-image: url('https://source.unsplash.com/random/1920x1080'); /* Замените на нужный URL изображения */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 20px;
+}
+
+.infoBox {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8); /* Полупрозрачный фон */
+  border-radius: 8px;
+  text-align: center;
+}
