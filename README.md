@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WeatherForecast is an application for viewing the weather forecast in different cities. Users can enter the name of the city and receive information about the current weather, as well as the forecast for several days ahead.
 
 ## Available Scripts
 
