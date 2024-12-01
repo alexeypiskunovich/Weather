@@ -1,23 +1,36 @@
-# Description
+# WeatherForecast
+React is a weather forecast app.
 
+## Description
 WeatherForecast is an application for viewing the weather forecast in different cities. Users can enter the name of the city and receive information about the current weather, as well as the forecast for several days ahead.
 
 ## Available Scripts
+- React
+- Redux
+- TypeScript
+- Axios
+- OpenWeatherMap API
+- CSS Modules
+- HTML
+- Material UI
 
-In the project directory, you can run:
+  
+## Functional
 
-### `npm start`
+- Search for weather by city name
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Displaying the current temperature, humidity and conditions
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Weather forecast for several days ahead
+
+- Cross-browser support
+
+
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can test our weather forecast application by visiting the following link: [WeatherForecast Demo](https://alexeypiskunovich.github.io/Weather/).
+Experience the full functionality and see real-time weather updates for your city!
 
 ### `npm run build`
 
