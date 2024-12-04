@@ -31,10 +31,11 @@ WeatherForecast is an application for viewing the weather forecast in different 
 You can test our weather forecast application by visiting the following link: [WeatherForecast Demo](https://alexeypiskunovich.github.io/Weather/).
 Experience the full functionality and see real-time weather updates for your city!
 
+<div align="center">
 <img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-11-16.png" width="800">
 <img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-13-22.png" width="800">
 <img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-15-26.png" width="800">
-
+</div>
 
 
 
